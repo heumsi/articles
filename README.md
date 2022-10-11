@@ -17,3 +17,4 @@
 
 - [테크 조직 미팅 1pager](https://taeho.io/pages/220301c4-bc52-4936-a582-90640ad185c3)
 - [개발자 협업 역량의 핵심 - "업무가시성"](https://taeho.io/pages/5d36a0ef-1e17-4957-b075-b5df5ffd9436)
+- [30-60-90일 계획: 신규 직원을 손쉽게 온보딩하는 방법](https://asana.com/ko/resources/30-60-90-day-plan)
