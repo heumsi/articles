@@ -4,7 +4,7 @@
 
 - [쿠버네티스 딥다이브](https://netpple.github.io/docs/deepdive-into-kubernetes/)
 - [Network CNI](https://blog.hyojun.me/8?category=972261)
-
+- [Kubernetes 운영을 위한 etcd 기본 동작 원리의 이해](https://tech.kakao.com/2021/12/20/kubernetes-etcd/)
 ## Web
 
 ## FE
